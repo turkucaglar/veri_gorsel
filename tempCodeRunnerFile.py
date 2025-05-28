@@ -1,0 +1,1 @@
+excel_dosya_adi = "planlama_verisi.xlsx"
